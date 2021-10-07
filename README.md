@@ -7,3 +7,6 @@
 - Encoding categorical variables
 - Splitting the dataset into Train set and Test set
 - Feature scaling
+
+**Section 2 ] Linear Regrssion**
+- Simple Linear Regression
