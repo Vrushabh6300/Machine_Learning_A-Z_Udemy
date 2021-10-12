@@ -10,3 +10,4 @@
 
 **Section 2 ] Linear Regrssion**
 - Simple Linear Regression
+- Multipple Linear Regression
