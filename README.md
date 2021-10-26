@@ -15,3 +15,6 @@
 - Support Vector Regression
 - Decision Tree Regression
 - Random Forest Regression
+
+**Section 3**] [**Classification**](/Classification)
+- Logistic Regression
