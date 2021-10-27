@@ -18,3 +18,4 @@
 
 **Section 3**] [**Classification**](/Classification)
 - Logistic Regression
+- K-Nearest Neighbors
