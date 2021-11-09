@@ -19,3 +19,4 @@
 **Section 3**] [**Classification**](/Classification)
 - Logistic Regression
 - K-Nearest Neighbors
+- Support Vector Machine (SVM)
