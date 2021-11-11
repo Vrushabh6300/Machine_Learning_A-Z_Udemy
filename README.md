@@ -20,3 +20,4 @@
 - Logistic Regression
 - K-Nearest Neighbors
 - Support Vector Machine (SVM)
+- Naive Bayes 
