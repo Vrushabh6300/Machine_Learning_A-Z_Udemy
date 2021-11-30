@@ -22,3 +22,4 @@
 - Support Vector Machine (SVM)
 - Naive Bayes Classifier
 - Decision Tree Classification
+- Random Forest Classification
