@@ -23,3 +23,7 @@
 - Naive Bayes Classifier
 - Decision Tree Classification
 - Random Forest Classification
+
+**Section 4**] [**Clustering**](/Clustering)
+- K-Means Clustering
+- Hierarchical Clustering
