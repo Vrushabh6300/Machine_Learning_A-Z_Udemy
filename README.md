@@ -27,3 +27,6 @@
 **Section 4**] [**Clustering**](/Clustering)
 - K-Means Clustering
 - Hierarchical Clustering
+
+**Section 5**] [**Association Rule Learning**](/Association-Rule-Learning)
+- Apriori
