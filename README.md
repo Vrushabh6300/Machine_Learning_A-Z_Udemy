@@ -1,4 +1,5 @@
 # Machine Learning A-Z | Udemy
+<hr>
 
 **Section 1**] [**Data Preprocessing**](/Data-Preprocessing)
 - Importing libraries
@@ -30,3 +31,4 @@
 
 **Section 5**] [**Association Rule Learning**](/Association-Rule-Learning)
 - Apriori
+- Eclat
